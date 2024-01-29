@@ -3,9 +3,9 @@
 #include<stdlib.h>
 #include<fstream>
 #include<cstring>
-#include<windows.h>
-#include<conio.h>
-#include<dos.h>
+//#include<windows.h>
+//#include<conio.h>
+//#include<dos.h>
 using namespace std;
 void setcolor(unsigned short color)
 {
